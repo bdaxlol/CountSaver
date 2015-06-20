@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountSaver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="saveCount">Save Count</string>
+    <string name="advance">Advance</string>
+</resources>
